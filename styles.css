@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .container {
@@ -58,6 +59,7 @@ body {
 }
 
 .container .icon img {
+  margin-right: 8px;
   width: 25px;
 }
 

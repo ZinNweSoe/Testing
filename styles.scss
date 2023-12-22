@@ -15,6 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
   }
   .container {
     padding: 20px;
@@ -53,6 +54,7 @@
     font-size: 15px;
   }
   .container .icon img{
+    margin-right: 8px;
     width: 25px;
   }
   .container .icon {
